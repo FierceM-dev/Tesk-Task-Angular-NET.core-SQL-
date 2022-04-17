@@ -1,0 +1,96 @@
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).exe
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).deps.json
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).runtimeconfig.json
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).runtimeconfig.dev.json
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).pdb
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).Views.dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).Views.pdb
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).csproj.AssemblyReference.cache
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).AssemblyInfoInputs.cache
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).AssemblyInfo.cs
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).csproj.CoreCompileInputs.cache
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).RazorAssemblyInfo.cache
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).RazorAssemblyInfo.cs
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI(TestTask).StaticWebAssets.Manifest.cache
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI(TestTask).StaticWebAssets.xml
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI(TestTask).styles.css
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).TagHelpers.input.cache
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).TagHelpers.output.cache
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).RazorCoreGenerate.cache
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).RazorTargetAssemblyInfo.cache
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).RazorTargetAssemblyInfo.cs
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).Views.pdb
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).csproj.CopyComplete
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).pdb
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).genruntimeconfig.cache
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Бичара\Documents\projects\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).exe
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).deps.json
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).runtimeconfig.json
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).runtimeconfig.dev.json
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).pdb
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).Views.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\WebAPI(TestTask).Views.pdb
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).csproj.AssemblyReference.cache
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).AssemblyInfoInputs.cache
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).AssemblyInfo.cs
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).csproj.CoreCompileInputs.cache
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).RazorAssemblyInfo.cache
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).RazorAssemblyInfo.cs
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI(TestTask).StaticWebAssets.Manifest.cache
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\staticwebassets\WebAPI(TestTask).StaticWebAssets.xml
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebAPI(TestTask).styles.css
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).TagHelpers.input.cache
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).TagHelpers.output.cache
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).RazorCoreGenerate.cache
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).RazorTargetAssemblyInfo.cache
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).RazorTargetAssemblyInfo.cs
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).Views.pdb
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).csproj.CopyComplete
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).dll
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).pdb
+C:\Users\Бичара\Documents\projects\Test Task\WebAPI(TestTask)\WebAPI(TestTask)\obj\Debug\netcoreapp3.1\WebAPI(TestTask).genruntimeconfig.cache
