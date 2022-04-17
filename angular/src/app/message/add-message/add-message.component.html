@@ -50,6 +50,6 @@
             </div>
         </div>
         <button (click)="addMessage()"
-        routerLink="/feedback" class="btn-submit" data-bs-dismiss="modal">Отправить письмо!</button>
+        routerLink="/feedback" class="btn-submit" data-bs-dismiss="modal"  [disabled]="fullNameControl.invalid">Отправить письмо!</button>
     </form>
 </div>
