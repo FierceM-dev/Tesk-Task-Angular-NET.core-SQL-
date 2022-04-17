@@ -1,0 +1,23 @@
+<!--<p>feedback works!</p>-->
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Номер запроса</th>
+            <th>Имя</th>
+            <th>Email</th>
+            <th>Телефон</th>
+            <th>Тема</th>
+            <th>Сообщение</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor = "let dataItem of FeedbackList">
+            <td>{{dataItem.MessageId}}</td>
+            <td>{{dataItem.NameUser}}</td>
+            <td>{{dataItem.EmailUser}}</td>
+            <td>{{dataItem.Phone}}</td>
+            <td>{{dataItem.Theme}}</td>
+            <td>{{dataItem.MessageText}}</td>
+        </tr>
+    </tbody>
+</table>

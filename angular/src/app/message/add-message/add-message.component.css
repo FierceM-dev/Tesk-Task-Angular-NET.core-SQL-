@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .wrapper-form {
+    width: 500px;
+    margin: 30px auto 0;
+    padding: 10px 0;
+    border: 0px, solid;
+    border-radius: 10px;
+    padding: 20px 0 45px;
+    margin: auto;
+  }
+  
+  .div-block {
+    display: flex;
+    margin: 20px 15px;
+  }
+  
+  label {
+    width: 120px;
+    margin: 5px 0 auto;
+    font-family: Gill Sans, sans-serif;
+    font-weight: 600;
+  }
+  
+  .custom-input_icon {
+    padding-left: 40px;
+  }
+  
+  .custom-input{
+    position: relative;
+    width: 70%;
+  }
+  
+  .custom-input::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    margin: 10px;
+    width: 20px;
+    height: 20px;
+  }
+      
+  input, select {
+    width: 350px;
+    height: 35px;
+    border: 1px solid #c2cad5;
+    border-radius: 9px;
+    padding-left: 10px;
+    font-family: Gill Sans, sans-serif;
+    font-weight: 200;
+    font-size: 16px;
+  }
+  
+  select {
+    width: 351px;
+  }
+  
+  .custom-input_user::before {
+    background: url("../../../assets/icon/name-icon.svg")
+    no-repeat;
+    background-size: cover;
+  }
+      
+  .custom-input_email::before {
+    background: url("../../../assets/icon/email-icon.svg")
+    no-repeat;
+    background-size: cover;
+  }
+        
+  .custom-input_phone::before {
+    background: url("../../../assets/icon/phone-icon.svg")
+    no-repeat;
+    background-size: cover;
+  }
+  
+  .textArea {
+    max-width: 350px;
+    min-width: 350px;
+    height: 110px;
+    max-height: 330px;
+    min-height: 60px;
+    border: 1px solid #c2cad5;
+    border-radius: 9px;
+    padding: 10px;
+    font-size: 16px;
+    font-family: Gill Sans, sans-serif;
+    font-weight: 200;
+  }
+  
+  .wrapper-form {
+    background-color: #f8f8f8;
+  }
+  
+  .header-form {
+    background-color: #a83f2a;
+    padding: 9px 0 9px 40px;
+    font-size: 23px;
+    color: white;
+    height: 40px;
+    position: relative;
+    width: 400px;
+    left: -11px;
+    font-family: Gill Sans, sans-serif;
+    font-weight: 400;
+  }
+  
+  .header-form::before {
+    content: '';
+    position: absolute;
+    border-bottom: 10px solid transparent;
+    border-right: 11px solid #662415;
+    left: 0;
+    bottom: -10px;
+  }
+  
+  .header-form::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    border-bottom: 40px solid #f8f8f8;
+    border-left: 30px solid #a83f2a;
+    width: 0;
+  }
+  
+  .btn-submit {
+    font-family: Gill Sans, sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    padding: 7px 24px;
+    border-radius: 9px;
+    border: 1px solid #c2cad5;
+    margin-left: 135px;
+  }
+  
+  .text-invalid {
+    color: red;
+    font-size: 12px;
+    display: grid;
+    margin-top: 2px;
+    max-width: 350px;
+  }
+
+
+  

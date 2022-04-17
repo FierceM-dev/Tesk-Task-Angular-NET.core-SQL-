@@ -1,0 +1,55 @@
+<div class="wrapper-form">
+    <form [formGroup]="fullNameControl" (ngSubmit)="onSubmit()">
+        <div class="header-form">
+            Напишите нам
+        </div>
+        <div class="div-block"  [ngClass]="{'has-error' : fullNameControl.get('firstName').errors && (fullNameControl.get('firstName').touched || fullNameControl.get('firstName').dirty)}">
+            <label for="firstName">Ваше имя:</label>
+            <div class="custom-input custom-input_user">
+                <input type="text" name="firstName" [(ngModel)]="NameUser" id="firstName" placeholder="Введите имя" formControlName="firstName" class="custom-input_icon">
+                <small *ngIf="fullNameControl.get('firstName').errors && (fullNameControl.get('firstName').touched || fullNameControl.get('firstName').dirty)" class="text-invalid">Поле является обязательным и может содержать от 3 до 12 символов</small>
+            </div>
+        </div>
+        <div  class="div-block"  [ngClass]="{'has-error' : fullNameControl.get('email').errors && (fullNameControl.get('email').touched || fullNameControl.get('email').dirty)}">
+            <label for="email">Ваш Email:</label>
+            <div class="custom-input custom-input_email">
+                <input type="text" name="email" id="email" [(ngModel)]="EmailUser" placeholder="peter@example.com" formControlName="email"  class="custom-input_icon" required>
+                <small *ngIf="fullNameControl.get('email').errors && (fullNameControl.get('email').touched || fullNameControl.get('email').dirty)" class="text-invalid">Поле является обязательным и должно соответствовать шаблону peter@example.com</small>
+            </div>
+        </div>
+        <div class="div-block">
+            <label for="phone">Ваш телефон:</label>
+            <div   class="custom-input custom-input_phone">
+                <input type="text" mask="(000)000-00-00" id="phone" [(ngModel)]="Phone" placeholder="Введите телефон" formControlName="phone" class="custom-input_icon">
+                <small *ngIf="fullNameControl.get('phone').errors && (fullNameControl.get('phone').touched || fullNameControl.get('phone').dirty)" class="text-invalid">Поле является обязательным</small>
+            </div>
+        </div>
+        <div class="div-block">
+            <label for="theme">Тема:</label>
+            <div>
+                <select name="theme" id="theme" formControlName="theme">
+                    <option selected value="1">Техподдержка</option>
+                    <option value="2">Отдел продаж</option>
+                    <option value="3">Другое</option>
+                </select>
+                <small *ngIf="fullNameControl.get('theme').errors && (fullNameControl.get('theme').touched || fullNameControl.get('theme').dirty)" class="text-invalid">Поле является обязательным</small>
+            </div>
+        </div>
+        <div class="div-block">
+            <label for="sms">Ваше сообщение:</label>
+            <div>
+                <textarea name="sms" formControlName="sms" [(ngModel)]="MessageText" class="textArea"></textarea>
+                <small *ngIf="fullNameControl.get('sms').errors && (fullNameControl.get('sms').touched || fullNameControl.get('sms').dirty)" class="text-invalid">Поле является обязательным и должно содержать не менее 5 символов</small>
+            </div>
+        </div>
+        <div class="div-block">
+            <label for="captcha">Цифры:</label>
+            <div class="custom-input">
+                <input type="text" id="captcha" formControlName="captcha">
+                <small *ngIf="fullNameControl.get('captcha').errors && (fullNameControl.get('captcha').touched || fullNameControl.get('captcha').dirty)" class="text-invalid">Поле является обязательным</small>
+            </div>
+        </div>
+        <button (click)="addMessage()"
+        routerLink="/feedback" class="btn-submit" data-bs-dismiss="modal">Отправить письмо!</button>
+    </form>
+</div>
